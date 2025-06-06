@@ -21,6 +21,22 @@ function App() {
               rel="noreferrer"
             >
               Rorisang Mathiba
+            </a>{" "}
+            and is{" "}
+            <a
+              href="https://github.com/Rorisang-Mathiba/Dictionary-project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              open-sourced on Github
+            </a>{" "}
+            and{" "}
+            <a
+              href="https://dictionary-projeect.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              hosted on Netlify.
             </a>
           </small>
         </footer>

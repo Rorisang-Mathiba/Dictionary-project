@@ -23,10 +23,9 @@ body {
 }
 
 .App-footer a {
-  text-decoration: none;
-  color: black;
+  color: #ff007f;
 }
 
 .App-footer a:hover {
-  color: #ff007f;
+  color: #c154c1;
 }
