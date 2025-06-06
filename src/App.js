@@ -13,7 +13,16 @@ function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by Rorisang Mathiba</small>
+          <small>
+            Coded by{" "}
+            <a
+              href="https://github.com/Rorisang-Mathiba/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Rorisang Mathiba
+            </a>
+          </small>
         </footer>
       </div>
     </div>
